@@ -209,7 +209,7 @@ while(n<=p)
 
   cout<<"Bus no: "<<bus[n].busn
 
-  <<"\nDriver: \t"<<bus[n].driver<<"\t\tArrival time: "
+  <<"\nDriver: \t"<<bus[n].driver<<"\t\tArrival time: \t"
 
   <<bus[n].arrival<<"\t\tDeparture time: "<<bus[n].depart
 
